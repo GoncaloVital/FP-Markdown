@@ -9,6 +9,7 @@ Gonçalo Fidalgo Vital
 - C
 - Javascript
 - Python
+- C#
 - ...
 
 > Metodologias de Desenvolvimento de Software @ 2022
